@@ -115,7 +115,7 @@ The `alx-system_engineering-devops` repository is licensed under the [MIT Licens
 
 If you have any questions, suggestions, or feedback regarding the `alx-system_engineering-devops` repository, please feel free to contact us:
 
-- Email: [example@email.com](mailto:example@email.com)
-- GitHub Issues: [https://github.com/your-username/alx-system_engineering-devops/issues](https://github.com/your-username/alx-system_engineering-devops/issues)
+- Email: [evans@muuo.codes](mailto:evans@muuo.codes)
+- GitHub Issues: [https://github.com/dev-muuo/alx-system_engineering-devops/issues](https://github.com/your-username/alx-system_engineering-devops/issues)
 
 We hope you find the `alx-system_engineering-devops` repository valuable and enjoy your learning journey!
